@@ -3,8 +3,6 @@
 # remote_theme: pages-themes/jekyll/minima@v2.5.1
 
 theme: minima
-minima:
-  skin: dark
 
 plugins:
   - "jekyll-github-metadata"
