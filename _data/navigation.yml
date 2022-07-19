@@ -1,0 +1,7 @@
+- link: /
+  name: Home
+  # highlight: True
+- link: /about.html
+  name: About
+  # highlight: True
+
